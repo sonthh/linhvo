@@ -1,0 +1,2 @@
+(this.webpackJsonplinhvo=this.webpackJsonplinhvo||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);e(0);var o=e(3),c=e.n(o),i=e(1),r=function(){return Object(i.jsx)("h1",{children:"Linh vo"})};e(9);c.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))},9:function(n,t,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3b3bcb45.chunk.js.map
