@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/linhvo/static/css/main.4af5f3b6.chunk.css",
-    "main.js": "/linhvo/static/js/main.ea90a834.chunk.js",
-    "main.js.map": "/linhvo/static/js/main.ea90a834.chunk.js.map",
+    "main.css": "/linhvo/static/css/main.026ae152.chunk.css",
+    "main.js": "/linhvo/static/js/main.a43c973f.chunk.js",
+    "main.js.map": "/linhvo/static/js/main.a43c973f.chunk.js.map",
     "runtime-main.js": "/linhvo/static/js/runtime-main.91b7aba5.js",
     "runtime-main.js.map": "/linhvo/static/js/runtime-main.91b7aba5.js.map",
-    "static/js/2.c4734e80.chunk.js": "/linhvo/static/js/2.c4734e80.chunk.js",
-    "static/js/2.c4734e80.chunk.js.map": "/linhvo/static/js/2.c4734e80.chunk.js.map",
+    "static/js/2.315258b0.chunk.js": "/linhvo/static/js/2.315258b0.chunk.js",
+    "static/js/2.315258b0.chunk.js.map": "/linhvo/static/js/2.315258b0.chunk.js.map",
     "index.html": "/linhvo/index.html",
-    "static/css/main.4af5f3b6.chunk.css.map": "/linhvo/static/css/main.4af5f3b6.chunk.css.map",
-    "static/js/2.c4734e80.chunk.js.LICENSE.txt": "/linhvo/static/js/2.c4734e80.chunk.js.LICENSE.txt"
+    "static/css/main.026ae152.chunk.css.map": "/linhvo/static/css/main.026ae152.chunk.css.map",
+    "static/js/2.315258b0.chunk.js.LICENSE.txt": "/linhvo/static/js/2.315258b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91b7aba5.js",
-    "static/js/2.c4734e80.chunk.js",
-    "static/css/main.4af5f3b6.chunk.css",
-    "static/js/main.ea90a834.chunk.js"
+    "static/js/2.315258b0.chunk.js",
+    "static/css/main.026ae152.chunk.css",
+    "static/js/main.a43c973f.chunk.js"
   ]
 }
