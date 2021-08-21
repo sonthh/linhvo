@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Home/style.scss","webpack://src/index.css"],"names":[],"mappings":"AAAA,aAEI,0BAA4B,CCFhC,GACE,UACF","file":"main.01619354.chunk.css","sourcesContent":[".gallery {\n  img {\n    object-fit: cover !important;\n  }\n}","h1 {\n  color: blue;\n}\n"]}
