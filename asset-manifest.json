@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/linhvo/static/css/main.06f3b4ac.chunk.css",
-    "main.js": "/linhvo/static/js/main.39d2fd41.chunk.js",
-    "main.js.map": "/linhvo/static/js/main.39d2fd41.chunk.js.map",
+    "main.js": "/linhvo/static/js/main.dcda9b7b.chunk.js",
+    "main.js.map": "/linhvo/static/js/main.dcda9b7b.chunk.js.map",
     "runtime-main.js": "/linhvo/static/js/runtime-main.91b7aba5.js",
     "runtime-main.js.map": "/linhvo/static/js/runtime-main.91b7aba5.js.map",
     "static/js/2.d6529b9f.chunk.js": "/linhvo/static/js/2.d6529b9f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.91b7aba5.js",
     "static/js/2.d6529b9f.chunk.js",
     "static/css/main.06f3b4ac.chunk.css",
-    "static/js/main.39d2fd41.chunk.js"
+    "static/js/main.dcda9b7b.chunk.js"
   ]
 }
