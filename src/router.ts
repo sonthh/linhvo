@@ -1,5 +1,5 @@
-import { About } from './About';
-import { HomePage } from './Home';
+import { About } from './About'
+import { HomePage } from './Home'
 
 export const routers = [
   {
@@ -10,4 +10,4 @@ export const routers = [
     path: '/about',
     component: About,
   },
-];
+]
