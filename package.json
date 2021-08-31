@@ -36,17 +36,19 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "lint": "tslint -c tslint.json src/**/*.{ts,tsx} --format verbose",
-    "postinstall": "husky install"
+    "lint:fix": "tslint -c tslint.json src/**/*.{ts,tsx} --fix --format verbose",
+    "postinstall": "husky install",
+    "lint:staged": "lint-staged"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "npm run lint:staged"
     }
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
-      "prettier --write",
       "npm run lint",
+      "prettier --write",
       "git add ."
     ]
   },
